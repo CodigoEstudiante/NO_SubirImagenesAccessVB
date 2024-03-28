@@ -1,0 +1,27 @@
+F:\archivos de jose\Ejercicios Propuestos\ImagenAccess\ImagenAccess\bin\Debug\ImagenAccess.exe
+F:\archivos de jose\Ejercicios Propuestos\ImagenAccess\ImagenAccess\bin\Debug\ImagenAccess.pdb
+F:\archivos de jose\Ejercicios Propuestos\ImagenAccess\ImagenAccess\bin\Debug\ImagenAccess.xml
+F:\archivos de jose\Ejercicios Propuestos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.Form1.resources
+F:\archivos de jose\Ejercicios Propuestos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.Resources.resources
+F:\archivos de jose\Ejercicios Propuestos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.vbproj.GenerateResource.Cache
+F:\archivos de jose\Ejercicios Propuestos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.exe
+F:\archivos de jose\Ejercicios Propuestos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.xml
+F:\archivos de jose\Ejercicios Propuestos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.pdb
+G:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.exe
+G:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.xml
+G:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.pdb
+G:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\bin\Debug\ImagenAccess.exe
+G:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\bin\Debug\ImagenAccess.pdb
+G:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\bin\Debug\ImagenAccess.xml
+G:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.Form1.resources
+G:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.Resources.resources
+G:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.vbproj.GenerateResource.Cache
+H:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.exe
+H:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.xml
+H:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.pdb
+H:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\bin\Debug\ImagenAccess.exe
+H:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\bin\Debug\ImagenAccess.pdb
+H:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\bin\Debug\ImagenAccess.xml
+H:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.Form1.resources
+H:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.Resources.resources
+H:\archivos\clases\proyectos\ImagenAccess\ImagenAccess\obj\Debug\ImagenAccess.vbproj.GenerateResource.Cache

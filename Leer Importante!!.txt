@@ -1,0 +1,3 @@
+Antes de ejecutar el proyecto debes cambiar la ruta de la ubicación de la base de datos de Acces 
+llamada "imagen".
+esto lo explico en el video en "00:55" segundos
